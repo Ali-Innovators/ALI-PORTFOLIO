@@ -1,2 +1,2 @@
 # ALI-PORTFOLIO
-Developed a Travel Technology Project Group Module focused on airline reservation workflows, flight search, API integration, and system testing. Supported troubleshooting, data validation, and integration improvements to enhance system reliability, efficiency, and user experience.
+I am an Assistant Software Engineer passionate about web development, backend programming, API integration, and UI/UX design. My portfolio showcases my technical skills, professional experience, and projects, highlighting my commitment to building reliable, user-friendly, and efficient digital solutions.
